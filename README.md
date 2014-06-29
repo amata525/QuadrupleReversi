@@ -1,8 +1,8 @@
 #QuadrupleReversi
 
 Android端末向けアプリとして開発された  
-二人対戦４色のリバーシ風ゲームです  
-通常のリバーシと違い、より多くの石を挟み相手のHPを0にすると勝ちです  
+二人対戦４色のリバーシ風ゲームです。  
+通常のリバーシと違い、より多くの石を挟み相手のHPを0にすると勝ちです。  
   
 GooglePlayStoreで公開しています。ぜひどうぞ。  
 <https://play.google.com/store/apps/details?id=com.unity3d.QuadrupleReversi>
